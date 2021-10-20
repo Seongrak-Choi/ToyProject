@@ -1,0 +1,2 @@
+rootProject.name = "NaverLoginSDK_ToyProject"
+include ':app'
